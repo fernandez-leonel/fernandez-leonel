@@ -87,17 +87,6 @@ Este sistema forma parte de una plataforma que seguirá creciendo con nuevas fun
 
 ---
 
-## 🔧 En desarrollo
-
-Actualmente estoy trabajando en mejoras y nuevas funcionalidades para el sistema, incluyendo:
-
-📦 Sistema de inventario y stock  
-📊 automatización de cálculo de precios  
-📥 importación de datos desde Excel  
-📈 herramientas administrativas para negocios  
-
----
-
 ## 🤝 Contacto
 
 GitHub  

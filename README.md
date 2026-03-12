@@ -5,13 +5,14 @@ Desarrollador Full Stack | Técnico Universitario en Programación (UTN)
 </p>
 
 <p align="center">
-📍 Argentina | 💻 Sistemas web y software de gestión | ⚙️ Automatización de procesos de negocio
+📍 Corrientes, Argentina | 💻 Sistemas web y software de gestión | ⚙️ Automatización de procesos de negocio
 </p>
 
 <p align="center">
 <a href="https://github.com/fernandez-leonel"><img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github"></a>
-<a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-En desarrollo-blue?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/leonel-fernandez-951b083a1//"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:leeoofernandez54@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-En desarrollo-blueviolet?style=for-the-badge"></a>
 </p>
 
 ---
@@ -32,35 +33,17 @@ Me especializo en crear aplicaciones completas donde se integran **frontend, bac
 
 ## 🛠️ Habilidades
 
-### 🔧 Lenguajes
-
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css" />
+<img src="https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,express,mysql,mongodb,postgres,firebase,git,github" />
 </p>
-
-### 🧩 Frontend
-
-- React  
-- Interfaces administrativas  
-- Integración con APIs  
-- Diseño responsivo  
-
-### ⚙️ Backend
-
-- Node.js  
-- Express.js  
-- APIs REST  
-- Arquitectura cliente-servidor  
 
 ### 🗄️ Bases de datos
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-También experiencia trabajando con:
-
-- SQL Server
+- MySQL  
+- MongoDB  
+- PostgreSQL  
+- Firebase  
+- SQL Server  
 
 ---
 

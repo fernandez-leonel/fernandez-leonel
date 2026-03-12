@@ -1,79 +1,104 @@
-👨‍💻 Leonel Fernandez
-Desarrollador Full Stack | Técnico Universitario en Programación (UTN) Argentina
+<h1 align="center">Leonel Fernandez</h1>
 
-Acerca de mí
+<p align="center">
+Desarrollador Full Stack | Técnico Universitario en Programación (UTN)
+</p>
 
-🎓 Técnico Universitario en Programación graduado en la Universidad Tecnológica Nacional (UTN).
+<p align="center">
+📍 Argentina | 💻 Sistemas web y software de gestión | ⚙️ Automatización de procesos de negocio
+</p>
 
-🧑‍💻 Desarrollador Full Stack enfocado en la creación de sistemas web orientados a resolver problemas reales en negocios y organizaciones.
+<p align="center">
+<a href="https://github.com/fernandez-leonel"><img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github"></a>
+<a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-En desarrollo-blue?style=for-the-badge"></a>
+</p>
 
-🧩 Me especializo en construir aplicaciones completas que integran frontend, backend y bases de datos, manteniendo una arquitectura clara y lógica de negocio bien estructurada.
+---
 
-⚙️ Desarrollo sistemas que automatizan tareas como gestión de productos, cálculo de precios, control de inventario y procesamiento de datos.
+## 👨‍💻 Sobre mí
 
-📊 Experiencia trabajando con importación de datos desde Excel, lógica de márgenes de venta y automatización de cálculos para sistemas administrativos.
+Desarrollador Full Stack enfocado en el desarrollo de **sistemas administrativos y herramientas para negocios**.
 
-🚀 Interesado en seguir creciendo profesionalmente desarrollando software útil para empresas y proyectos reales.
+Me especializo en crear aplicaciones completas donde se integran **frontend, backend y bases de datos**, con lógica de negocio clara y orientada a resolver problemas reales.
 
-🛠️ Habilidades
+🎓 Técnico Universitario en Programación — Universidad Tecnológica Nacional (UTN)
 
-🔧 Lenguajes
+💡 Interesado en desarrollar software que ayude a empresas a **automatizar procesos, organizar información y mejorar su eficiencia**.
 
-JavaScript
-HTML5
-CSS3
-SQL
+🚀 Actualmente desarrollando sistemas de gestión y herramientas para procesamiento de datos empresariales.
 
-🧩 Frontend
+---
 
-React
-Vite
-Interfaces administrativas
-Diseño responsivo
-Integración con APIs
+## 🛠️ Habilidades
 
-⚙️ Backend
+### 🔧 Lenguajes
 
-Node.js
-Express.js
-APIs REST
-Lógica de negocio
-Arquitectura cliente-servidor
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css" />
+</p>
 
-🗄️ Bases de datos
+### 🧩 Frontend
 
-MySQL
-MongoDB
-Firebase
-SQL Server
+- React  
+- Interfaces administrativas  
+- Integración con APIs  
+- Diseño responsivo  
 
-🛠️ Herramientas y prácticas
+### ⚙️ Backend
 
-Git y GitHub
-Arquitectura modular
-Procesamiento de datos
-Importación de archivos Excel
-Automatización de cálculos de negocio
-Buenas prácticas de desarrollo
+- Node.js  
+- Express.js  
+- APIs REST  
+- Arquitectura cliente-servidor  
 
-📌 Proyectos destacados
+### 🗄️ Bases de datos
 
-📦 Sistema de Gestión de Inventario y Precios
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
 
-Sistema web desarrollado para ayudar a negocios a administrar productos y calcular precios automáticamente.
+También experiencia trabajando con:
 
-Características del sistema:
+- SQL Server
 
-Gestión de productos
-Gestión de proveedores
-Gestión de categorías
-Importación de listas de productos desde Excel
-Cálculo automático de precios según márgenes configurables
-Reglas de precio por producto, categoría o margen global
-Panel administrativo para gestionar datos del sistema
+---
 
-Este proyecto está enfocado en resolver un problema común en negocios donde los precios se calculan manualmente usando planillas o calculadoras.
+## 📌 Proyecto destacado
 
+### 🏪 Sistema de Gestión Empresarial
 
-🤝 Conectate conmigo
-📧 Correo electrónico: leeoofernandez54@gmail.com
+Proyecto enfocado en ayudar a negocios a **administrar productos, precios y datos comerciales de forma eficiente**.
+
+🔗 Repositorio  
+https://github.com/fernandez-leonel/feraytek-sistema-gestion
+
+El sistema está pensado para mejorar el flujo de trabajo de empresas que manejan grandes listas de productos o necesitan automatizar procesos administrativos.
+
+### Funcionalidades principales
+
+💻 Gestión de productos  
+📦 Organización de datos comerciales  
+📊 Administración de información empresarial  
+⚙️ Backend con API REST  
+🗄️ Integración con base de datos  
+
+Este sistema forma parte de una plataforma que seguirá creciendo con nuevas funcionalidades.
+
+---
+
+## 🔧 En desarrollo
+
+Actualmente estoy trabajando en mejoras y nuevas funcionalidades para el sistema, incluyendo:
+
+📦 Sistema de inventario y stock  
+📊 automatización de cálculo de precios  
+📥 importación de datos desde Excel  
+📈 herramientas administrativas para negocios  
+
+---
+
+## 🤝 Contacto
+
+GitHub  
+https://github.com/fernandez-leonel

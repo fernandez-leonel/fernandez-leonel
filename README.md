@@ -70,7 +70,4 @@ Este sistema forma parte de una plataforma que seguirá creciendo con nuevas fun
 
 ---
 
-## 🤝 Contacto
 
-GitHub  
-https://github.com/fernandez-leonel

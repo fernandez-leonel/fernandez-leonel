@@ -5,14 +5,23 @@ Desarrollador Full Stack | Técnico Universitario en Programación (UTN)
 </p>
 
 <p align="center">
-📍 Corrientes, Argentina | 💻 Sistemas web y software de gestión | ⚙️ Automatización de procesos de negocio
-</p>
 
-<p align="center">
-<a href="https://github.com/fernandez-leonel"><img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/leonel-fernandez-951b083a1/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:leeoofernandez54@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://fernandez-leonel.github.io"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-orange?style=for-the-badge&logo=vercel"></a>
+<a href="https://github.com/fernandez-leonel">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/leonel-fernandez-951b083a1/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:leeoofernandez54@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://fernandez-leonel.github.io">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
 </p>
 
 ---

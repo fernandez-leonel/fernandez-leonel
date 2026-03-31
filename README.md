@@ -10,7 +10,7 @@ Desarrollador Full Stack | Técnico Universitario en Programación (UTN)
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/leonel-fernandez-951b083a1/">
+<a href="https://www.linkedin.com/in/fernandez-leonel/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
